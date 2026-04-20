@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pearl Dental App</string>
+    <string-array name="roles_array">
+        <item>Patient</item>
+        <item>Doctor</item>
+        <item>Staff</item>
+    </string-array>
+</resources>

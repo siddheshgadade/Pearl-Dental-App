@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "833192063378",
+    "firebase_url": "https://testing-eedf5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testing-eedf5",
+    "storage_bucket": "testing-eedf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833192063378:android:a94302b4ccd9e633da114b",
+        "android_client_info": {
+          "package_name": "com.example.pearldentalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9gKaZXQmGhY4bblH4Gsb8SwB4gkvoCuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
